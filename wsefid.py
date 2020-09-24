@@ -17,7 +17,7 @@ import atexit
 
 import configbd
 
-from DBConnection import DBConnection   
+#from DBConnection import DBConnection   
 from flask.json import JSONEncoder
 from datetime import date
   
