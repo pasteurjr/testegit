@@ -8,4 +8,4 @@ Created on Thu Sep 17 21:27:51 2020
 import configbd
 
 
-print(configbd.HOST)
+print(configbd.HOST)AaAAa
